@@ -15,6 +15,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('Hello! Let\'s explore some US bikeshare data!')
+    print('Please be advised that this in only partial data. To access full data go to https://www.divvybikes.com/system-data')
     
     #retrieve city name from user
     while True:
