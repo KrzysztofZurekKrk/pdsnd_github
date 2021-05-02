@@ -14,3 +14,5 @@ washington.csv
 www.udacity.com
 ### Copyright and licensing information:
 Free and open
+### Software required:
+Anaconda Python 3.8 or above
