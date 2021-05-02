@@ -12,3 +12,5 @@ new_york_city.csv
 washington.csv
 ### Credits:
 www.udacity.com
+### Copyright and licensing information:
+Free and open
